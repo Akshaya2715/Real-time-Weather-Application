@@ -10,7 +10,7 @@ A sleek and responsive weather application built using **React**, **Vite**, and 
 - 🌡️ Displays temperature, humidity, wind speed, and weather condition  
 - 🎨 Clean and responsive UI  
 - 🔄 Real-time API integration using `fetch()`
-- 
+ 
 ---
 
 ## 🖼️ Screenshots
